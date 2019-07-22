@@ -26,7 +26,7 @@ DIGITS is currently compatiable with `Caffe 0.15`
 ```sh
 # example location - can be customized
 export CAFFE_ROOT=~/caffe
-git clone https://github.com/NVIDIA/caffe.git $CAFFE_ROOT -b 'caffe-0.15'
+git clone https://github.com/NVIDIA/caffe.git $CAFFE_ROOT -b 'caffe-0.17'
 ```
 
 Setting the `CAFFE_ROOT` environment variable will help DIGITS automatically detect your Caffe installation, but this is optional.
