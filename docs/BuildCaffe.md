@@ -20,7 +20,7 @@ sudo apt-get install --no-install-recommends build-essential cmake git gfortran 
 ```
 
 ## Download source
-DIGITS is currently compatiable with `Caffe 0.15`
+DIGITS is currently compatiable with `Caffe 0.17`
 
 
 ```sh
